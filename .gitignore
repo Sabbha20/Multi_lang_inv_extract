@@ -1,0 +1,11 @@
+.tenv/
+Resources/
+.tenv/*.*
+Resources/*.*
+.ipynb_checkpoints/*.*
+.ipynb_checkpoints/
+desktop.ini
+.DS_Store
+*env/
+.env
+.vs_code/
